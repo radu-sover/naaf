@@ -1,0 +1,10 @@
+behave
+selenium
+
+# protractor ported to python
+pytractor
+
+pyvirtualdisplay
+
+# static analysis
+flake8
